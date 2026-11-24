@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:stonking
 LABEL maintainer="mattj"
 
 EXPOSE 8080
